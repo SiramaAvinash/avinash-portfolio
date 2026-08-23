@@ -37,7 +37,7 @@ const experiences = [
 function Experience() {
   return (
     <section
-      id="experience"
+      id="Experience"
       className="border-t border-white/10 px-6 py-24"
     >
       <div className="mx-auto max-w-6xl">

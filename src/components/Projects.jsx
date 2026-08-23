@@ -28,7 +28,7 @@ const projects = [
 function Projects() {
   return (
     <section
-      id="projects"
+      id="Projects"
       className="border-t border-white/10 px-6 py-24"
     >
       <div className="mx-auto max-w-6xl">

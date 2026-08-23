@@ -1,7 +1,7 @@
 function About() {
   return (
     <section
-      id="about"
+      id="About"
       className="border-t border-white/10 px-6 py-24"
     >
       <div className="mx-auto max-w-6xl">
