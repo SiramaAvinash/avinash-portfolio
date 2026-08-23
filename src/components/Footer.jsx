@@ -19,35 +19,35 @@ function Footer() {
         {/* Navigation */}
         <div className="flex flex-wrap justify-center gap-5 text-sm text-zinc-400">
           <a
-            href="#about"
+            href="#About"
             className="transition hover:text-white"
           >
             About
           </a>
 
           <a
-            href="#projects"
+            href="#Projects"
             className="transition hover:text-white"
           >
             Projects
           </a>
 
           <a
-            href="#experience"
+            href="#Experience"
             className="transition hover:text-white"
           >
             Experience
           </a>
 
           <a
-            href="#certifications"
+            href="#Certifications"
             className="transition hover:text-white"
           >
             Certifications
           </a>
 
           <a
-            href="#contact"
+            href="#Contact"
             className="transition hover:text-white"
           >
             Contact
