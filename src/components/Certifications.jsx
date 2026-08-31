@@ -29,6 +29,16 @@ const certifications = [
       "Explored the future of optimization through classical computing, artificial intelligence, and quantum computing.",
     file: "/certificates/Quantum_phase3.pdf",
   },
+  {
+  title: "Quantum Systems Engineer Internship",
+  organization: "Blackbucks Education Pvt. Ltd.",
+  year: "2026",
+  duration: "8 Weeks",
+  category: "Quantum Computing",
+  description:
+    "Successfully completed an 8-week Short-Term Internship in Quantum Systems Engineering, involving structured training, practical assignments, and project-based learning.",
+  file: "/certificates/Quantum_blackbucks.pdf",
+},
 ];
 
 function Certifications() {
