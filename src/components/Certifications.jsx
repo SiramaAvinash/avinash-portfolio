@@ -39,6 +39,16 @@ const certifications = [
     "Successfully completed an 8-week Short-Term Internship in Quantum Systems Engineering, involving structured training, practical assignments, and project-based learning.",
   file: "/certificates/Quantum_blackbucks.pdf",
 },
+{
+  title: "WISER 2026 Industry Challenges",
+  organization: "WISER",
+  year: "2026",
+  duration: "Industry Challenge",
+  category: "AI + Quantum Optimization",
+  description:
+    "Certificate of Participation awarded for successfully participating in the WISER 2026 Industry Challenges and fulfilling the challenge requirements.",
+  file: "/certificates/wiser_industry_challenges.pdf",
+},
 ];
 
 function Certifications() {
