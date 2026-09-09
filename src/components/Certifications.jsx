@@ -47,7 +47,7 @@ const certifications = [
   category: "AI + Quantum Optimization",
   description:
     "Certificate of Participation awarded for successfully participating in the WISER 2026 Industry Challenges and fulfilling the challenge requirements.",
-  file: "/certificates/wiser_industry_challenges.pdf",
+  file: "/certificates/wiser_challenge_certificate.pdf",
 },
 ];
 
